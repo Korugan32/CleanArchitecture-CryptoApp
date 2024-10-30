@@ -1,4 +1,4 @@
-package com.korugan.cleanarchitecture.ui.theme
+package com.korugan.cleanarchitecture.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
