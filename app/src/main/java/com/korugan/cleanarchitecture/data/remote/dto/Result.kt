@@ -10,11 +10,11 @@ data class Result(
     val circulatingSupply: String,
     val code: String,
     val currency: String,
-    val marketCap: Long,
+    val marketCap: Double,
     val marketCapstr: String,
     val name: String,
     val price: Double,
     val pricestr: String,
-    val volume: Long,
+    val volume: Double,
     val volumestr: String
 )
